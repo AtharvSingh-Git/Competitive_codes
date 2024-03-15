@@ -7,6 +7,8 @@ Yo, ready to crush those coding challenges and flex your problem-solving muscles
 - **Crush the Curve**
 - **Level Up, Boi**: Get faster, smarter, and basically unstoppable at problem-solving
 
+# **Consider this repo my secret ingredient stash. It's a bit raw now, but the potential is chef's kiss** 🔥🤌
+
 ## The Breakdown
 ### Number Theory Domination
 - **Modular Arithmetic** – keepin' it fresh under modulo
